@@ -1,1 +1,1 @@
-First Commmit! Horray! Adventure Log Program completed.
+First Commit! Horray! Adventure Log Program completed.
